@@ -2,6 +2,9 @@
 title: "Indicação da Jac"
 date: 2020-11-01T22:57:00-03:00
 draft: false
+tags : ["indicacao da jac"]
+meta : "false"
+
 ---
 
 Olá!.

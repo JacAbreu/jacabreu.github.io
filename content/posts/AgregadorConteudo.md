@@ -2,6 +2,9 @@
 title: "Desafio da Atualização - Ferramentas"
 date: 2020-11-01T22:29:53-03:00
 draft: false
+tags : ["posts"]
+meta : "false"
+
 ---
 
 Em um mundo lotado de informação - e principalmente após o fim do Google Reader (RIP), as vezes é desafiador manter o fluxo de informação e se manter a par de tudo o que acontece.
