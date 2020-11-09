@@ -1,0 +1,19 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "hugo-theme-prav"]
+	path = hugo-theme-prav
+	url = git@github.com:pravin/hugo-theme-prav.git
+[submodule "themes/hugo-theme-prav"]
+	path = themes/hugo-theme-prav
+	url = git@github.com:pravin/hugo-theme-prav.git
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = git@github.com:funkydan2/hugo-kiera.git
+[submodule "public"]
+	path = public
+	url = git@github.com:JacAbreu/jacabreu.github.io.git
+	branch = main
