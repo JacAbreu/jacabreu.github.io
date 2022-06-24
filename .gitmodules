@@ -17,3 +17,6 @@
 	path = public
 	url = git@github.com:JacAbreu/jacabreu.github.io.git
 	branch = main
+[submodule "casa-da-jac/themes/blackburn"]
+	path = casa-da-jac/themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
