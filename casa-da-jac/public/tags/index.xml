@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Casa da Jac</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Casa da Jac</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jan 2022 10:50:22 -0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>randomness</title>
+      <link>http://example.org/tags/randomness/</link>
+      <pubDate>Wed, 19 Jan 2022 10:50:22 -0300</pubDate>
+      
+      <guid>http://example.org/tags/randomness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indicacao da jac</title>
+      <link>http://example.org/tags/indicacao-da-jac/</link>
+      <pubDate>Sun, 08 Nov 2020 15:19:36 -0300</pubDate>
+      
+      <guid>http://example.org/tags/indicacao-da-jac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>posts</title>
+      <link>http://example.org/tags/posts/</link>
+      <pubDate>Sun, 01 Nov 2020 22:29:53 -0300</pubDate>
+      
+      <guid>http://example.org/tags/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

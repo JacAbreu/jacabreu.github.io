@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casa da Jac</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Casa da Jac</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jan 2022 22:40:36 -0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book Wishlist</title>
+      <link>http://example.org/post/random-thoughts/book-wishlist/</link>
+      <pubDate>Wed, 19 Jan 2022 10:50:22 -0300</pubDate>
+      
+      <guid>http://example.org/post/random-thoughts/book-wishlist/</guid>
+      <description>Olá.
+O tempo é pouco, mas a lista de livros é grande:
+ Ecology of the Brain: The Phenomenology and Biology of the Embodied Mind - Psychiatric Clinic University of Heidelberg Thomas Fuchs  </description>
+    </item>
+    
+    <item>
+      <title>Jac, Who?</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Tue, 18 Jan 2022 22:40:36 -0300</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>[Português - Brasil]
+Olá! Eu sou a Jacqueline Abreu. As pessoas costumam me chamar de Jac - e prefiro ser chamada assim.
+Atualmente, trabalho desenvolvendo sofware. Alguns preferem nomear como software engineer, outros de software developers. Meu primeiro emprego trabalhando com software, teve início em outubro de 2011. Desde então, tenho colaborado na área.
+Este espaço é para compartilhar o que estou aprendendo e alguns pensamentos.
+[English]
+Hi, I am Jacqueline Abreu.</description>
+    </item>
+    
+    <item>
+      <title>Indicação da Jac #1</title>
+      <link>http://example.org/post/compilation/indicacaojac8nov2020/</link>
+      <pubDate>Sun, 08 Nov 2020 15:19:36 -0300</pubDate>
+      
+      <guid>http://example.org/post/compilation/indicacaojac8nov2020/</guid>
+      <description>Olá! Essa semana, gostaria de indicar:
+  Newsletter do Gabs Ferreira, que vem ai para unificar o conteúdo que ele costumava compartilhar no grupo do telegram dedicado aos conteúdos curados pelo Gabs. Agora para fazer receber o conteúdo, se inscreva em: https://tinyletter.com/o_gabsferreira
+  Resilience4j é uma biblioteca escrita em java, que auxília na definição de ações para que o sistema seja tolerante a falhas. Em um mundo de micro serviços com diversos pontos de possíveis falhas, ser tolerante é essencial termos maior confiabilidade e almejar a disponibilidade.</description>
+    </item>
+    
+    <item>
+      <title>Indicação da Jac</title>
+      <link>http://example.org/post/compilation/indicacaojac2nov2020/</link>
+      <pubDate>Sun, 01 Nov 2020 22:57:00 -0300</pubDate>
+      
+      <guid>http://example.org/post/compilation/indicacaojac2nov2020/</guid>
+      <description>Olá!.
+Links que gostei:
+  Newletter do Pat Kua =&amp;gt; levelup.patkua.com - Via Camila Falconi. Focada em liderança técnica.
+  Guia de como modelar melhores APIs: cloudblog.withgoogle.com - Via Felipe Soares.
+  </description>
+    </item>
+    
+    <item>
+      <title>Desafio da Atualização - Ferramentas</title>
+      <link>http://example.org/post/compilation/agregadorconteudo/</link>
+      <pubDate>Sun, 01 Nov 2020 22:29:53 -0300</pubDate>
+      
+      <guid>http://example.org/post/compilation/agregadorconteudo/</guid>
+      <description>Em um mundo lotado de informação - e principalmente após o fim do Google Reader (RIP), as vezes é desafiador manter o fluxo de informação e se manter a par de tudo o que acontece.
+Nestes momentos, talvez a melhor estratégia seja filtrar as informações e aproveitar o fato de que o RSS ainda existe (vida longa ao RSS). Com isso em mente, um agregador de conteúdo que proporcione o conteúdo sem curadoria de outros, como acontece com as informações provindas via Twitter ou Linkedin é uma ferramenta bem útil.</description>
+    </item>
+    
+  </channel>
+</rss>
