@@ -33,9 +33,6 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
-
-      - name: Set project dir
-        run: cd casa-da-jac
         
       - name: Clean public directory
         run: rm -rf public
