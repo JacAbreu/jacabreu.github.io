@@ -20,7 +20,7 @@ Comparar e saber em que situação usar SQS/ SNS / RabbitMQ e Kafka também foi 
 
 Outro ponto também é saber quando é apropriado usar banco relacional e banco não relacional. Acesso de dados: dados transacionais, dados consolidados, dados históricos. ETLs, Lakes também foram tópicos abordados.
 
-Kubernets é praticamente dominante, mas precisamos ter o conhecimento de escalamento horizontal ou vertical - quando vale a pena colocar mais instâncias rodando o sistema ou quando damos mais recursos para a instância que já está no ar.
+Kubernets é praticamente dominante, mas precisamos ter o conhecimento de como escalar - quando vale a pena colocar mais instâncias (pods) rodando o sistema ou quando damos mais recursos para a instância que já está no ar.
 
 Cache, Redis apareceram nos papos.
 
